@@ -1,0 +1,172 @@
+body {
+
+     padding: 0;
+     margin: 0;
+
+
+
+}
+
+
+
+.Header {
+
+
+     position: absolute;
+     top: 30%;
+     left: 50%;
+     color: white;
+
+
+
+
+}
+
+.Card-style {
+
+
+
+     margin-top: 80px;
+     margin-left: 100px;
+     margin-right: 300px;
+
+     font-family: 'Playfair Display', serif;
+     font-family: 'Rubik', sans-serif;
+
+
+
+
+}
+
+.card-Button {
+
+
+     text-align: center;
+
+
+}
+
+.player-selection {
+
+
+
+     margin-top: -680px;
+     margin-left: 77%;
+     margin-right: 80px;
+
+
+     font-family: 'Merriweather', serif;
+
+
+}
+
+
+
+
+
+#player-1 {
+
+     display: flex;
+     gap: 1em;
+     margin-left: 20%;
+
+
+
+}
+
+
+#player-2 {
+
+     display: flex;
+     gap: 1em;
+     margin-left: 20%;
+
+
+
+}
+
+
+#player-3 {
+
+     display: flex;
+     gap: 1em;
+     margin-left: 20%;
+
+
+
+}
+
+
+
+#player-4 {
+
+     display: flex;
+     gap: 1em;
+     margin-left: 20%;
+
+
+
+}
+
+
+
+#player-5 {
+
+     display: flex;
+     gap: 1em;
+     margin-left: 20%;
+
+
+
+}
+
+
+
+#player-6 {
+
+     display: flex;
+     gap: 1em;
+     margin-left: 20%;
+
+
+
+}
+
+.footer-content {
+
+     padding: 50px;
+     text-align: center;
+     margin-top: 500px;
+
+     color: white;
+
+     background-color: black;
+
+
+
+     font-size: medium;
+
+     font-family: 'Playfair Display', serif;
+     font-family: 'Rubik', sans-serif;
+
+
+
+
+}
+
+.footer-box {
+
+
+     padding-top: 100px;
+
+
+
+}
+
+.card-content {
+
+
+     text-align: center;
+
+
+}
